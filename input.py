@@ -1,0 +1,2 @@
+a=input("whta is \nur name ?\n") #here u can see that within quotes it is just a string like it used to be in within print
+                                #difference that in addition to printing it also returns input from user.
